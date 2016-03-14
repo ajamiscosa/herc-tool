@@ -1,0 +1,41 @@
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\HerculesTool.exe
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\HerculesTool.pdb
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\Telerik.WinControls.dll
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\TelerikCommon.dll
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\Telerik.WinControls.xml
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\SwingWERX.dll
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\SwingWERX.pdb
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\bin\Plugins\Script.xshd
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\bin\HerculesTool.exe
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\bin\HerculesTool.pdb
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\obj\Debug\HerculesTool.csprojResolveAssemblyReference.cache
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\obj\Debug\HerculesTool.Main.resources
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\obj\Debug\HerculesTool.Properties.Resources.resources
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\obj\Debug\HerculesTool.Setup.resources
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\obj\Debug\HerculesTool.Test.resources
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\obj\Debug\HerculesTool.csproj.GenerateResource.Cache
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\obj\Debug\HerculesTool.exe.licenses
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\obj\Debug\HerculesTool.exe
+C:\Users\DEVFINITY\Documents\Visual Studio 2015\Projects\HerculesTool\HerculesTool\obj\Debug\HerculesTool.pdb
+D:\projects\HerculesTool\HerculesTool\obj\Debug\HerculesTool.exe
+D:\projects\HerculesTool\HerculesTool\obj\Debug\HerculesTool.pdb
+D:\devbox\HerculesTool\HerculesTool\obj\Debug\HerculesTool.exe
+D:\devbox\HerculesTool\HerculesTool\obj\Debug\HerculesTool.pdb
+D:\devbox\HerculesTool\HerculesTool\obj\Debug\HerculesTool.csprojResolveAssemblyReference.cache
+D:\devbox\HerculesTool\HerculesTool\obj\Debug\HerculesTool.Main.resources
+D:\devbox\HerculesTool\HerculesTool\obj\Debug\HerculesTool.Properties.Resources.resources
+D:\devbox\HerculesTool\HerculesTool\obj\Debug\HerculesTool.Setup.resources
+D:\devbox\HerculesTool\HerculesTool\obj\Debug\HerculesTool.Test.resources
+D:\devbox\HerculesTool\HerculesTool\obj\Debug\HerculesTool.csproj.GenerateResource.Cache
+D:\devbox\HerculesTool\HerculesTool\obj\Debug\HerculesTool.exe.licenses
+D:\devbox\HerculesTool\bin\Plugins\Script.xshd
+D:\devbox\HerculesTool\bin\HerculesTool.exe
+D:\devbox\HerculesTool\bin\HerculesTool.pdb
